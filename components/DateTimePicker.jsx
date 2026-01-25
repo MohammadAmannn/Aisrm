@@ -13,7 +13,7 @@ const DateTimePicker = ({ value, onChange }) => {
   return (
     <div className="datetime-picker">
       <label htmlFor="datetime" className="block font-semibold">
-        Select Date and Time:
+        Select Datrre and Time:
       </label>
       <input
         id="datetime"
